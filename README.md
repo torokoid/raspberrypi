@@ -114,3 +114,7 @@ body::before {
  <footer><span class="white">
  Copyright 2021/09/17 S.Hada
 	 </span></footer>
+	
+	</body>
+
+</html>
