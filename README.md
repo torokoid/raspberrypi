@@ -66,7 +66,7 @@ body::before {
 
 	
 <h1><span class="yellow"><marquee behavior="left">!!! ラズパイマガジン 2021年8月号 買い方、OS導入方法、工作基礎 !!!</marquee></span></h1>
-
+<!--
 <h3><span class="white">該当記事の部分のみスキャンしました。</span></h3>
 <a href="20210917_001.JPG" data-lightbox="abc"><img src="20210917_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210917_002.JPG" data-lightbox="abc"><img src="20210917_002.JPG" alt="サンプル画像" width="900" /></a>
@@ -90,7 +90,7 @@ body::before {
 <a href="20210917_020.JPG" data-lightbox="abc"><img src="20210917_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210917_021.JPG" data-lightbox="abc"><img src="20210917_021.JPG" alt="サンプル画像" width="900" /></a>
 
-
+-->
 
 
 
